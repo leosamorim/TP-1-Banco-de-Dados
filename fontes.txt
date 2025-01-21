@@ -1,0 +1,6 @@
+As fontes de dados utilizadas são ambas públicas, provenientes do Departamento de Informação e Informática do Sistema Único de Saúde (DATASUS) e do Tribunal Superior Eleitoral (TSE), onde é possível encontrar informações sobre a cobertura vacinal e o partido no poder, respectivamente. 
+
+Links:
+
+http://tabnet.datasus.gov.br/cgi/dhdat.exe?bd_pni/cpnibr.def
+https://sig.tse.jus.br/ords/dwapr/r/seai/sig-eleicao/home?session=14242302917167
