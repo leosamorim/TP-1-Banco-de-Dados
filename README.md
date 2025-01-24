@@ -18,15 +18,15 @@ As fontes de dados utilizadas são ambas públicas, provenientes do Departamento
 ### Descrição dos dados
 Abaixo está uma breve descrição da estrutura dos dados:
 1. **DATASUS**: como principais atributos, possui: 
-- Unidade federativa. 
-- Ano. 
-- Tipo de vacina.  
-- Cobertura vacinal (em porcentagem).
+  - Unidade federativa. 
+  - Ano. 
+  - Tipo de vacina.  
+  - Cobertura vacinal (em porcentagem).
 2. **TSE**: os atributos são:
-- Unidade Federativa.
-- Nome do governante.
-- Partido.
-- Ano.
+  - Unidade Federativa.
+  - Nome do governante.
+  - Partido.
+  - Ano.
 
 Para os dados da cobertura vacinal, foram avaliadas  24 tipos de vacinas diferentes, para um conjunto de 648 amostras e 27 unidades federativas. Ao passo que, para os dados do TSE, há 19 partidos para análise no período em questão e 652 amostras.
 Além desses dados, criamos uma tabela que contém informações de cada presidente do Brasil de 1999 a 2022, com o intuito de melhorar a nossa análise. Essa tabela tem o nome do presidente, os anos em que ele permaneceu no poder e o partido ao qual pertenceu.  
