@@ -68,7 +68,7 @@ Abaixo encontram-se alguns resultados prévios.
 
 <div align="center">
   <img src="VariacaoDaCoberturaVacinalDurantePeríodoPresidencial.png" width="700px" />
-  <p style="font-size: 16px; font-style: italic; margin-top: 10px; text-align: center;">
-    Variação da Cobertura Vacinal Durante o Período Presidencial
+  <p style="font-size: 16px; font-style: italic; margin-top: 7px; text-align: center;">
+    Figura 1: variação da cobertura vacinal durante o período presidencial.
   </p>
 </div>
