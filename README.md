@@ -66,4 +66,4 @@ Arquivos contidos:
 
 Abaixo encontram-se alguns resultados prévios.
 
-<img src="Captura%20de%20tela%20de%202025-01-24%2015-45-30.png" alt="Texto Alternativo">
+<img src="![Image](https://github.com/user-attachments/assets/e4150789-2271-4ae3-98f5-1b1815a6b72c)" alt="Texto Alternativo">
