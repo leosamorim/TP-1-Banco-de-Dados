@@ -67,10 +67,8 @@ Arquivos contidos:
 Abaixo encontram-se alguns resultados prévios.
 
 <div align="center">
-  <figure>
-    <img src="VariacaoDaCoberturaVacinalDurantePeríodoPresidencial.png" width="700px" />
-    <figcaption style="font-size: 16px; font-style: italic; margin-top: 10px;">
-      Variação da Cobertura Vacinal Durante o Período Presidencial
-    </figcaption>
-  </figure>
+  <img src="VariacaoDaCoberturaVacinalDurantePeríodoPresidencial.png" width="700px" />
+  <p style="font-size: 16px; font-style: italic; margin-top: 10px; text-align: center;">
+    Variação da Cobertura Vacinal Durante o Período Presidencial
+  </p>
 </div>
