@@ -64,7 +64,7 @@ Breve descrição dos datasets:
 
 ### Resultados 
 
-Abaixo encontra-se um resultado prévio. Para mais detalher, ver o arquivo RelatorioIBD.pdf localizado na raiz do diretório. Para visualizar o nosso dashboard, basta clicar [aqui](https://lookerstudio.google.com/u/0/reporting/ed40d2a6-b156-431a-8c53-ccffa415d046/page/whwcE/edit).
+Abaixo encontra-se um resultado prévio. Para mais detalhes, ver o arquivo **RelatorioIBD.pdf** localizado na raiz do diretório. Para visualizar o nosso dashboard, basta clicar [aqui](https://lookerstudio.google.com/u/0/reporting/ed40d2a6-b156-431a-8c53-ccffa415d046/page/whwcE/edit).
 
 <div align="center">
   <img src="VariacaoDaCoberturaVacinalDurantePeríodoPresidencial.png" width="700px" />
