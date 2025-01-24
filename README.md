@@ -58,7 +58,7 @@ Vale ressaltar que a cobertura vacinal é expressa em porcentagem e, em alguns c
 
 #### Diretório ./datasets
 Breve descrição dos datasets:
-- _base_vacinas.csv_: dataset da cobertura vacinal.
+- _base_vacinas.csv_: cobertura vacinal.
 - _partidos_gov_ano.csv_: partidos no poder na esfera estadual.
 - _presidentes.csv_: presidentes de cada ano para o período analisado.
 
@@ -72,3 +72,7 @@ Abaixo encontra-se um resultado prévio. Para visualizar o nosso dashboard, bast
     Figura 1: variação da cobertura vacinal durante o período presidencial.
   </p>
 </div>
+
+### Trabalhos futuros
+
+Em trabalhos posteriores, pretendemos analisar como os surtos de doenças impactam no aumento/redução da cobertura vacinal. Além disso, iremos analisar um período maior para um melhor entendimento da relação entre a cobertura vacinal e o contexto político partidário nas regiões/estados brasileiros.
