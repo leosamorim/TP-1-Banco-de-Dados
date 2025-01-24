@@ -1,4 +1,5 @@
---Algumas transformações foram feitas em planilhas para facilitar o input dos dados no banco. Porém o principal tratamento foi o aplicado na base_vacinas de modo a alterar sua estrutura para conter uma coluna com o indicativo do nome da vacina. Abaixo segue alguns dos tratamentos aplicados.
+--Algumas transformações foram feitas em planilhas para facilitar o input dos dados no banco. Porém o principal tratamento foi o aplicado na 
+--base_vacinas de modo a alterar sua estrutura para conter uma coluna com o indicativo do nome da vacina. Abaixo segue alguns dos tratamentos aplicados.
 --input dos dados na tabela de coverage
 INSERT INTO
     coverage (
