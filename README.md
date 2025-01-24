@@ -66,4 +66,4 @@ Arquivos contidos:
 
 Abaixo encontram-se alguns resultados prévios.
 
-<img src="https://web.whatsapp.com/b4a0ffab-65a2-42c6-aab7-ba7651e5b91e" alt="Texto Alternativo">
+<img src="file:///home/matheusvf/Imagens/Capturas%20de%20tela/Captura%20de%20tela%20de%202025-01-24%2015-45-30.png" alt="Texto Alternativo">
