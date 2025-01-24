@@ -2,7 +2,7 @@
 
 <div align="left">
   <a href="">
-    <img src="https://www.pngfind.com/pngs/m/334-3346098_ufmg-logo-8-federal-university-of-minas-gerais.png" height="200">
+    <img src="https://i.pinimg.com/474x/d0/66/c8/d066c8edee1895e318510b772aa07613.jpg" height="200">
   </a>
   <a href="https://ufmg.br/">
     <img src="https://www.ufmg.br/marca/brasao.jpg" height="200">
