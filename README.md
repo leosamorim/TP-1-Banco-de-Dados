@@ -1,6 +1,6 @@
 ﻿# Introdução a Banco de Dados
 
-[<img src="https://www.ufmg.br/marca/brasao.jpg"height="200"></a>]
+[<img src="https://www.ufmg.br/marca/brasao.jpg"height="200"></a>](https://ufmg.br/)
 
 [<img src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="50"></a>](https://web.dio.me/track/decola-tech-avanade-net-developer?tab=path)
 
