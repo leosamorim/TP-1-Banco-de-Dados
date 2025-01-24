@@ -66,4 +66,4 @@ Arquivos contidos:
 
 Abaixo encontram-se alguns resultados prévios.
 
-<img src="file:///home/matheusvf/Imagens/Capturas%20de%20tela/Captura%20de%20tela%20de%202025-01-24%2015-45-30.png" alt="Texto Alternativo">
+<img src="Captura%20de%20tela%20de%202025-01-24%2015-45-30.png" alt="Texto Alternativo">
