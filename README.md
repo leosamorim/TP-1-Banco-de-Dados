@@ -2,6 +2,8 @@
 
 [<img src="https://www.ufmg.br/marca/brasao.jpg"height="200"></a>]
 
+[<img src="https://hermes.dio.me/tracks/6bb40420-5f89-4902-8df7-3399674d9d84.png" height="50"></a>](https://web.dio.me/track/decola-tech-avanade-net-developer?tab=path)
+
 ### Objetivo
 O presente trabalho tem como objetivo promover o acesso, a coleta, o  gerenciamento, a integração e a análise de conjuntos de dados públicos para a matéria de Introdução a Banco de Dados (IBD) do Departamento de Ciência da Computação (DCC) da Universidade Federal de Minas Gerais (UFMG), ministrada pelo professor Wagner Cipriano da Silva. Para isso, duas bases de dados públicas serão integradas, de forma que o trabalho agregue valor se comparado à consulta das fontes de maneira individual.
 
