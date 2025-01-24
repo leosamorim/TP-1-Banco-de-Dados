@@ -13,7 +13,7 @@ Neste trabalho, iremos avaliar a cobertura vacinal (indicador que mede a percent
 Neste trabalho, não analisamos os impactos de nenhum surto de doenças e a sua relação com o aumento/redução da cobertura vacinal. Além disso, faz-se necessário esclarecer que o intuito deste trabalho é apenas reportar os fatos e analisar os resultados, não há defesa de nenhum partido político, o trabalho é apartidário. 
 
 ### Fontes de dados
-As fontes de dados utilizadas são ambas públicas, provenientes do Departamento de Informação e Informática do Sistema Único de Saúde ([DATASUS](http://tabnet.datasus.gov.br/cgi/dhdat.exe?bd_pni/cpnibr.def)) e do Tribunal Superior Eleitoral ([TSE](https://sig.tse.jus.br/ords/dwapr/r/seai/sig-eleicao/home?session=14242302917167)), onde é possível encontrar informações sobre a cobertura vacinal e os partidos no poder, respectivamente.
+As fontes de dados utilizadas são ambas públicas, provenientes do Departamento de Informação e Informática do Sistema Único de Saúde ([DATASUS](http://tabnet.datasus.gov.br/cgi/dhdat.exe?bd_pni/cpnibr.def)) e do Tribunal Superior Eleitoral ([TSE](https://sig.tse.jus.br/ords/dwapr/r/seai/sig-eleicao/home?session=14242302917167)), onde é possível encontrar informações sobre a cobertura vacinal e os partidos no poder na esfera estadual, respectivamente.
 
 ### Descrição dos dados
 Abaixo está uma breve descrição da estrutura dos dados:
@@ -33,3 +33,10 @@ Para os dados da cobertura vacinal, foram avaliadas  24 tipos de vacinas diferen
 Além desses dados, criamos uma tabela que contém informações de cada presidente do Brasil de 1999 a 2022, com o intuito de melhorar a nossa análise. Essa tabela tem o nome do presidente, os anos em que ele permaneceu no poder e o partido ao qual pertenceu.  
 
 Vale ressaltar que a cobertura vacinal é expressa em porcentagem e, em alguns casos, pode ser superior a 100%. Tal  fato ocorre devido a um ou mais dos seguintes fatores: problemas com as estimativas populacionais, erros ou duplicações nos registros, vacinação fora do grupo alvo (vacinação em grupos não incluídos na população-alvo oficial), campanhas e intensificações de vacinação (estados podem vacinar mais pessoas do que o esperado para compensar atrasos ou atingir populações que não foram contabilizadas corretamente), e cálculos acumulados (cobertura acumulada ao longo de anos, dados históricos não atualizados).
+
+#### Diretório ./datasets
+Arquivos contidos:
+- _base_vacinas.csv_: dataset da cobertura vacinal.
+- _partidos_gov_ano.csv_: partidos no poder na esfera estadual.
+- _presidentes.csv_: presidentes de cada ano para o período analisado.
+
