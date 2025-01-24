@@ -1,6 +1,11 @@
 ﻿# Introdução a Banco de Dados
 
-[<img src="https://www.ufmg.br/marca/brasao.jpg" height="200"></a>](https://ufmg.br/)  
+<div align="center">
+  <a href="https://ufmg.br/">
+    <img src="https://www.ufmg.br/marca/brasao.jpg" height="200">
+  </a>
+</div>
+
 
 # Universidade Federal de Minas Gerais
 
