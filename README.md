@@ -13,7 +13,7 @@ Neste trabalho, iremos avaliar a cobertura vacinal (indicador que mede a percent
 Neste trabalho, não analisamos os impactos de nenhum surto de doenças e a sua relação com o aumento/redução da cobertura vacinal. Além disso, faz-se necessário esclarecer que o intuito deste trabalho é apenas reportar os fatos e analisar os resultados, não há defesa de nenhum partido político, o trabalho é apartidário. 
 
 ### Fontes de dados
-As fontes de dados utilizadas são ambas públicas, provenientes do Departamento de Informação e Informática do Sistema Único de Saúde ( [DATASUS]([https://web.dio.me/project/recriando-o-jogo-da-cobrinha-com-javascript/learning/bfcd37b9-4ccf-40fb-b0ea-c2d865414a19?back=/track/html-web-developer&tab=undefined&moduleId=undefined](http://tabnet.datasus.gov.br/cgi/dhdat.exe?bd_pni/cpnibr.def))) e do Tribunal Superior Eleitoral (TSE), onde é possível encontrar informações sobre a cobertura vacinal e os partidos no poder, respectivamente.
+As fontes de dados utilizadas são ambas públicas, provenientes do Departamento de Informação e Informática do Sistema Único de Saúde ( [DATASUS]([https://web.dio.me/project/recriando-o-jogo-da-cobrinha-com-javascript/learning/bfcd37b9-4ccf-40fb-b0ea-c2d865414a19?back=/track/html-web-developer&tab=undefined&moduleId=undefined](http://tabnet.datasus.gov.br/cgi/dhdat.exe?bd_pni/cpnibr.def)) ) e do Tribunal Superior Eleitoral (TSE), onde é possível encontrar informações sobre a cobertura vacinal e os partidos no poder, respectivamente.
 
 ### Descrição dos dados
 Abaixo está uma breve descrição da estrutura dos dados:
