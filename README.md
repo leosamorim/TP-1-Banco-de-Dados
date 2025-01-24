@@ -3,7 +3,11 @@
 
 
 
-[<img src="https://www.ufmg.br/marca/brasao.jpg" height="200"></r>](https://ufmg.br/)  
+<a href="https://ufmg.br/">
+  <img src="https://www.ufmg.br/marca/brasao.jpg" height="200" style="vertical-align:middle;">
+</a>
+<span style="vertical-align:middle; font-size: 20px; margin-left: 10px;">Universidade Federal de Minas Gerais</span>
+
 # Universidade Federal de Minas Gerais
 
 ### Objetivo
