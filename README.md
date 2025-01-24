@@ -2,7 +2,7 @@
 
 <div align="left">
   <a href="">
-    <img src="https://logodownload.org/wp-content/uploads/2015/02/ufmg-logo-1-1.png" height="200">
+    <img src="https://eadparavc.dted.ufma.br/wp-content/uploads/2020/05/UFMG.png" height="200">
   </a>
   <a href="https://ufmg.br/">
     <img src="https://www.ufmg.br/marca/brasao.jpg" height="200">
