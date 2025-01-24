@@ -1,21 +1,6 @@
 ﻿# Introdução a Banco de Dados
 
-
-
-<table>
-  <tr>
-    <td>
-      <a href="https://ufmg.br/">
-        <img src="https://www.ufmg.br/marca/brasao.jpg" height="200">
-      </a>
-    </td>
-    <td style="vertical-align: middle;">
-      <a href="https://ufmg.br/" style="text-decoration: none; font-size: 500px; font-weight: none; color: white;">Universidade Federal de minas Gerais</a>
-    </td>
-  </tr>
-</table>
-
-
+[<img src="https://www.ufmg.br/marca/brasao.jpg" height="200"></>](https://ufmg.br/)  
 
 # Universidade Federal de Minas Gerais
 
