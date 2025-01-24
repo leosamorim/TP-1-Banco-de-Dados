@@ -62,3 +62,12 @@ Arquivos contidos:
 - _partidos_gov_ano.csv_: partidos no poder na esfera estadual.
 - _presidentes.csv_: presidentes de cada ano para o período analisado.
 
+### Resultados 
+
+Abaixo encontram-se alguns resultados prévios.
+
+<div align="left">
+  <a href="https://ufmg.br/">
+    <img src="blob:https://web.whatsapp.com/b4a0ffab-65a2-42c6-aab7-ba7651e5b91e" height="500">
+  </a>
+
