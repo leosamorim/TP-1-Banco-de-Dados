@@ -10,7 +10,7 @@
       </a>
     </td>
     <td style="vertical-align: middle;">
-      <a href="https://ufmg.br/" style="text-decoration: none; font-size: 40px; font-weight: bold; color: black;">Universidade Federal de minas Gerais</a>
+      <a href="https://ufmg.br/" style="text-decoration: none; font-size: 100px; font-weight: bold; color: black;">Universidade Federal de minas Gerais</a>
     </td>
   </tr>
 </table>
