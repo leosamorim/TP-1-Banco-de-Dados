@@ -13,15 +13,13 @@
 
 Desenvolvido por:
 
-Leonardo de Souza Amorim 
+Leonardo de Souza Amorim [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" height="20"></a>](https://www.linkedin.com/in/leonardo-s-amorim/) 
 
-Mariana Bernardes Borges
+Mariana Bernardes Borges [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" height="20"></a>](https://www.linkedin.com/in/mariana-bernardes-borges-032a5b1b3/) 
 
 Matheus Vinícius Freitas Oliveira dos Santos [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" height="20"></a>](https://www.linkedin.com/in/matheusfreitasmv/) 
 
 Rafael Mota Cavalcante 
-
-Linkedin 
 
 ### Objetivo
 O presente trabalho tem como objetivo promover o acesso, a coleta, o  gerenciamento, a integração e a análise de conjuntos de dados públicos para a matéria de Introdução a Banco de Dados (IBD) do Departamento de Ciência da Computação (DCC) da Universidade Federal de Minas Gerais (UFMG), ministrada pelo professor Wagner Cipriano da Silva. Para isso, duas bases de dados públicas serão integradas, de forma que o trabalho agregue valor se comparado à consulta das fontes de maneira individual.
