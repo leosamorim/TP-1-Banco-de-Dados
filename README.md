@@ -18,7 +18,7 @@ As fontes de dados utilizadas são ambas públicas, provenientes do Departamento
 ### Descrição dos dados
 Abaixo está uma breve descrição da estrutura dos dados:
 1. **DATASUS**: como principais atributos, possui: 
-  - Unidade federativa. 
+  -   Unidade federativa. 
   - Ano. 
   - Tipo de vacina.  
   - Cobertura vacinal (em porcentagem).
