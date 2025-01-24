@@ -3,14 +3,6 @@
 
 
 
-
-
-
-
-
-
-[<img src="https://www.ufmg.br/marca/brasao.jpg"_height="200"></a>](https://ufmg.br/)
-
 [<img src="https://www.ufmg.br/marca/brasao.jpg" height="100"></a>](https://ufmg.br/)
 
 ### Objetivo
