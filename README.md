@@ -72,3 +72,11 @@ Abaixo encontram-se alguns resultados prévios.
     Figura 1: variação da cobertura vacinal durante o período presidencial.
   </p>
 </div>
+
+<div align="center">
+  <img src="RankingDaMediaDaCoberturaVacinalPorTipoDeVacina.png" width="700px" />
+  <p style="font-size: 10px; font-style: italic; margin-top: 10px; text-align: center;">
+    Figura 2: Ranking da mádia da cobertura vacianal por tipo de vacina.
+  </p>
+</div>
+
