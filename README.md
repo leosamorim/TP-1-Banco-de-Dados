@@ -1,7 +1,9 @@
 ﻿# Introdução a Banco de Dados
 
+[<img src="https://www.ufmg.br/marca/brasao.jpg"height="200"></a>]
+
 ### Objetivo
-O presente trabalho tem como objetivo promover o acesso, a coleta, o  gerenciamento, a integração e a análise de conjuntos de dados públicos para a matéria de Introdução a Banco de Dados (IBD) do Departamento de Ciência da Computação (DCC) da Universidade Federal de Minas Gerais (UFMG). Para isso, duas bases de dados públicas serão integradas, de forma que o trabalho agregue valor se comparado à consulta das fontes de maneira individual.
+O presente trabalho tem como objetivo promover o acesso, a coleta, o  gerenciamento, a integração e a análise de conjuntos de dados públicos para a matéria de Introdução a Banco de Dados (IBD) do Departamento de Ciência da Computação (DCC) da Universidade Federal de Minas Gerais (UFMG), ministrada pelo professor Wagner Cipriano da Silva. Para isso, duas bases de dados públicas serão integradas, de forma que o trabalho agregue valor se comparado à consulta das fontes de maneira individual.
 
 ### Descrição do problema
 Neste trabalho, iremos avaliar a cobertura vacinal (indicador que mede a percentagem da população que recebeu uma vacina na idade e tempo recomendados) no Brasil entre 1999 e 2022 em função dos partidos no poder nos governos estaduais e federais. Com isso, pretendemos entender melhor a relação entre a cobertura vacinal e o contexto político partidário nas regiões/estados brasileiros. As principais visões são:
