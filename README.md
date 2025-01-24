@@ -5,16 +5,15 @@ O presente trabalho tem como objetivo promover o acesso, a coleta, o  gerenciame
 
 ### Descrição do problema
 Neste trabalho, iremos avaliar a cobertura vacinal (indicador que mede a percentagem da população que recebeu uma vacina na idade e tempo recomendados) no Brasil entre 1999 e 2022 em função dos partidos no poder nos governos estaduais e federais. Com isso, pretendemos entender melhor a relação entre a cobertura vacinal e o contexto político partidário nas regiões/estados brasileiros. As principais visões são:
-Variação da cobertura vacinal geral por estado e por partido. 
-Variação da cobertura vacinal por tipo de vacina, por estado e por partido.
-Variação nacional da cobertura vacinal por partido.
-Variação nacional da cobertura vacinal por vacina e por partido.
-
+1. Variação da cobertura vacinal geral por estado e por partido. 
+2. Variação da cobertura vacinal por tipo de vacina, por estado e por partido.
+3. Variação nacional da cobertura vacinal por partido.
+4. Variação nacional da cobertura vacinal por vacina e por partido.
 
 Neste trabalho, não analisamos os impactos de nenhum surto de doenças e a sua relação com o aumento/redução da cobertura vacinal. Além disso, faz-se necessário esclarecer que o intuito deste trabalho é apenas reportar os fatos e analisar os resultados, não há defesa de nenhum partido político, o trabalho é apartidário. 
 
 ### Fontes de dados
-As fontes de dados utilizadas são ambas públicas, provenientes do Departamento de Informação e Informática do Sistema Único de Saúde (DATASUS) e do Tribunal Superior Eleitoral (TSE), onde é possível encontrar informações sobre a cobertura vacinal e os partidos no poder, respectivamente.
+As fontes de dados utilizadas são ambas públicas, provenientes do Departamento de Informação e Informática do Sistema Único de Saúde ( [DATASUS]([https://web.dio.me/project/recriando-o-jogo-da-cobrinha-com-javascript/learning/bfcd37b9-4ccf-40fb-b0ea-c2d865414a19?back=/track/html-web-developer&tab=undefined&moduleId=undefined](http://tabnet.datasus.gov.br/cgi/dhdat.exe?bd_pni/cpnibr.def))) e do Tribunal Superior Eleitoral (TSE), onde é possível encontrar informações sobre a cobertura vacinal e os partidos no poder, respectivamente.
 
 ### Descrição dos dados
 Abaixo está uma breve descrição da estrutura dos dados:
