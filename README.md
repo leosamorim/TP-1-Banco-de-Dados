@@ -2,7 +2,7 @@
 
 <div align="left">
   <a href="">
-    <img src="https://i.pinimg.com/474x/d0/66/c8/d066c8edee1895e318510b772aa07613.jpg" height="200">
+    <img src="https://logodownload.org/wp-content/uploads/2015/02/ufmg-logo-1-1.png" height="200">
   </a>
   <a href="https://ufmg.br/">
     <img src="https://www.ufmg.br/marca/brasao.jpg" height="200">
