@@ -15,7 +15,7 @@ Desenvolvido por:
 
 Leonardo de Souza Amorim 
 Mariana Bernardes Borges 
-Matheus Vinícius Freitas Oliveira dos Santos  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" heigh="50"></>](https://www.linkedin.com/in/matheusfreitasmv/)  
+Matheus Vinícius Freitas Oliveira dos Santos  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" heigh="10"></>](https://www.linkedin.com/in/matheusfreitasmv/)  
 Rafael Mota Cavalcante 
 
 Linkedin 
