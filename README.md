@@ -2,11 +2,18 @@
 
 
 
-
-<a href="https://ufmg.br/" style="text-decoration: none;">
-  <img src="https://www.ufmg.br/marca/brasao.jpg" height="200" style="vertical-align: middle;">
-  <span style="font-size: 40px; font-weight: bold; vertical-align: middle;">UFMG</span>
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://ufmg.br/">
+        <img src="https://www.ufmg.br/marca/brasao.jpg" height="200">
+      </a>
+    </td>
+    <td style="vertical-align: middle;">
+      <a href="https://ufmg.br/" style="text-decoration: none; font-size: 40px; font-weight: bold; color: black;">UFMG</a>
+    </td>
+  </tr>
+</table>
 
 
 
