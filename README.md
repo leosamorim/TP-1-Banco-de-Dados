@@ -11,7 +11,8 @@
 
 ## Universidade Federal de Minas Gerais
 
-## Integrantes
+
+### Integrantes
 
 Leonardo de Souza Amorim [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" height="20"></a>](https://www.linkedin.com/in/leonardo-s-amorim/) 
 
