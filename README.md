@@ -66,4 +66,4 @@ Arquivos contidos:
 
 Abaixo encontram-se alguns resultados prévios.
 
-![Texto Alternativo](blob:https://web.whatsapp.com/b4a0ffab-65a2-42c6-aab7-ba7651e5b91e)
+<img src="https://web.whatsapp.com/b4a0ffab-65a2-42c6-aab7-ba7651e5b91e" alt="Texto Alternativo">
