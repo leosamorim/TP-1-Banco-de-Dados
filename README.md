@@ -57,7 +57,7 @@ Além desses dados, criamos uma tabela que contém informações de cada preside
 Vale ressaltar que a cobertura vacinal é expressa em porcentagem e, em alguns casos, pode ser superior a 100%. Tal  fato ocorre devido a um ou mais dos seguintes fatores: problemas com as estimativas populacionais, erros ou duplicações nos registros, vacinação fora do grupo alvo (vacinação em grupos não incluídos na população-alvo oficial), campanhas e intensificações de vacinação (estados podem vacinar mais pessoas do que o esperado para compensar atrasos ou atingir populações que não foram contabilizadas corretamente), e cálculos acumulados (cobertura acumulada ao longo de anos, dados históricos não atualizados).
 
 #### Diretório ./datasets
-Arquivos contidos:
+Breve descrição dos datasets:
 - _base_vacinas.csv_: dataset da cobertura vacinal.
 - _partidos_gov_ano.csv_: partidos no poder na esfera estadual.
 - _presidentes.csv_: presidentes de cada ano para o período analisado.
