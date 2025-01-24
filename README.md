@@ -66,4 +66,7 @@ Arquivos contidos:
 
 Abaixo encontram-se alguns resultados prévios.
 
-![alt text](VariacaoDaCoberturaVacinalDurantePeríodoPresidencial.png)
+<div align="center">
+<img src="VariacaoDaCoberturaVacinalDurantePeríodoPresidencial.png" width="700px" />
+</div>
+
