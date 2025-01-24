@@ -3,12 +3,11 @@
 
 
 
-<div style="display: flex; align-items: center;">
-  <a href="https://ufmg.br/" style="text-decoration: none; display: flex; align-items: center;">
-    <img src="https://www.ufmg.br/marca/brasao.jpg" height="200" style="margin-right: 10px;">
-    <span style="font-size: 40px; font-weight: bold; color: black;">Universidade Federal de Minas Gerais</span>
-  </a>
-</div>
+<a href="https://ufmg.br/" style="text-decoration: none;">
+  <img src="https://www.ufmg.br/marca/brasao.jpg" height="200" style="vertical-align: middle;">
+  <span style="font-size: 40px; font-weight: bold; vertical-align: middle;">UFMG</span>
+</a>
+
 
 
 # Universidade Federal de Minas Gerais
