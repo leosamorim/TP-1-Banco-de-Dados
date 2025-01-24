@@ -66,4 +66,4 @@ Arquivos contidos:
 
 Abaixo encontram-se alguns resultados prévios.
 
-![alt text](Variação da cobertura vacinal durante o período presidencial.png)
+![alt text](VariacaoDaCoberturaVacinalDurantePeríodoPresidencial.png)
